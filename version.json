@@ -1,6 +1,6 @@
 {
-  "version": "45",
+  "version": "46",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "b893b10968ab6cc518e2afdede68a76b2553afb9011f94ea8b930342658f0e2c",
-  "notas": "Actualización automática desde la nube."
+  "sha256": "a7b197b8702d68eaaa27feacc333aec61ccddb892f2c26b0d80b2386abd19536",
+  "notas": "Nuevo diseño tipo tablero y configuración inicial paso a paso."
 }
