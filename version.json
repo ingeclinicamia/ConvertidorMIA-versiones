@@ -1,6 +1,6 @@
 {
-  "version": "46",
+  "version": "47",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "a7b197b8702d68eaaa27feacc333aec61ccddb892f2c26b0d80b2386abd19536",
-  "notas": "Nuevo diseño tipo tablero y configuración inicial paso a paso."
+  "sha256": "691e74acc9d7ac1f188dcce370e8e5ead23a7c5f7cff5d336e6c41bbeb4dea2c",
+  "notas": "Diseño más sencillo: una pantalla con fechas y un botón, y configuración inicial paso a paso."
 }
