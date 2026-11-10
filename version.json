@@ -1,6 +1,6 @@
 {
-  "version": "54.1",
+  "version": "54.2",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "b0b5f6fb682ffb14594d26d05867d9e25c18d87e14ee51d624e68aaae134be81",
-  "notas": "Instalaciones independientes y aviso de versión nueva cada 10 minutos."
+  "sha256": "e9e937f21801ca349583775d25eab586f3f56c177032f96525f0ff8cf1f2391f",
+  "notas": "La configuración inicial empieza siempre en Bienvenida."
 }
