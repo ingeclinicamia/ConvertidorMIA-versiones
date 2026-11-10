@@ -1,6 +1,6 @@
 {
-  "version": "54.2",
+  "version": "55",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "e9e937f21801ca349583775d25eab586f3f56c177032f96525f0ff8cf1f2391f",
-  "notas": "La configuración inicial empieza siempre en Bienvenida."
+  "sha256": "f11dbf6349414934c69655326bd502b3478ac2567e99ea198f434a5ba2edefb9",
+  "notas": "La validación toma las fechas del mismo Excel (solo días completos)."
 }
