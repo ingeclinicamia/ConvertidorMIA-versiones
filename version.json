@@ -1,6 +1,6 @@
 {
-  "version": "52",
+  "version": "53",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "39db0dd936a5b6004d8c3654f5db07216ae44f05b7bf86daa1a6bac99e40a848",
-  "notas": "Dejar una factura por fuera, textos más claros y botón para cerrar la configuración inicial."
+  "sha256": "eca5b9a78cf718459b8c95ed0948a037732127b601dc7761b71396368699f512",
+  "notas": "Aviso de facturas que no van en el archivo, Ajustes ordenados y configuración inicial más grande."
 }
