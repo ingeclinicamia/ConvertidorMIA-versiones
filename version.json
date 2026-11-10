@@ -1,6 +1,6 @@
 {
-  "version": "54",
+  "version": "54.1",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "a2dd8d3911889f931d0990f8af18a58a9681b072b591e9b47951238daaa43753",
-  "notas": "Cada instalación es independiente y la conexión con Siigo se comprueba de verdad."
+  "sha256": "b0b5f6fb682ffb14594d26d05867d9e25c18d87e14ee51d624e68aaae134be81",
+  "notas": "Instalaciones independientes y aviso de versión nueva cada 10 minutos."
 }
