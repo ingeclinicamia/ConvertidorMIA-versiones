@@ -1,6 +1,6 @@
 {
-  "version": "48",
+  "version": "49",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "afd7131adec7d064626b29fbe0dd6d486de14b814486eda583098c490857f1a0",
-  "notas": "Detalle de cada conversión en el Historial y motivo de las notas crédito."
+  "sha256": "13920f75a9404644e90b1fa9080006e36943339a1c9100cf1dfbc56e887c4f3b",
+  "notas": "Ver el detalle de cualquier conversión, también de las anteriores. Historial más ordenado."
 }
