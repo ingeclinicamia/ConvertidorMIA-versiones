@@ -1,6 +1,6 @@
 {
-  "version": "53",
+  "version": "53.1",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "eca5b9a78cf718459b8c95ed0948a037732127b601dc7761b71396368699f512",
-  "notas": "Aviso de facturas que no van en el archivo, Ajustes ordenados y configuración inicial más grande."
+  "sha256": "07db01dcfb151f66411801bf9f39eb0813079af0856cf51abbe87baebc33a2f6",
+  "notas": "Ajuste de diseño en Punto de partida."
 }
