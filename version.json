@@ -1,6 +1,6 @@
 {
-  "version": "50",
+  "version": "51",
   "url": "https://raw.githubusercontent.com/ingeclinicamia/ConvertidorMIA-versiones/main/Convertidor_MIA.exe",
-  "sha256": "8161569cc25df28021e9efd1b6b500de5ba7642ac9687d65da06ed7ed1c0ce2d",
-  "notas": "Avisos más claros, botón Ya lo revisé y página más ancha."
+  "sha256": "683bc73f682581f30bb884c3bb7fdc08dea16f0951325041edf5aaa37fa4318d",
+  "notas": "Reconstruir el detalle en la misma página y volver al inicio con el logo."
 }
